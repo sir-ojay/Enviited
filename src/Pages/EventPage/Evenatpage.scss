@@ -1,0 +1,18 @@
+.eventpage{
+    text-align: center;
+    align-content: center;
+    .image{
+        width: 200px;
+height: 200px;
+    }
+    .birthday{
+        .calendar{display: flex;
+            justify-content: left
+            ;}
+            .location{
+                display: flex;
+            }
+            justify-content: left;
+    }
+
+}
